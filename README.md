@@ -39,3 +39,6 @@ https://doi.org/10.1016/j.aeue.2024.155505
  
 
 ![image](https://github.com/user-attachments/assets/817ea9b2-168a-4336-a7c4-32020257d7fd)
+
+
+An OUTDATED and more simplified 16 bit architecture has also been set up: [CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory] (https://github.com/konsmall/CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory). 
