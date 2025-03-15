@@ -41,4 +41,6 @@ https://doi.org/10.1016/j.aeue.2024.155505
 ![image](https://github.com/user-attachments/assets/817ea9b2-168a-4336-a7c4-32020257d7fd)
 
 
+Binary code that can be inputed into the CPU memory for simulation processes can be produced using the following repo [ASSEMBLER_32_BIT_for_RISCV_Arechitecture] (https://github.com/konsmall/ASSEMBLER_32_BIT_for_RISCV_Arechitecture)
+
 An OUTDATED and more simplified 16 bit architecture has also been set up: [CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory] (https://github.com/konsmall/CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory). 
