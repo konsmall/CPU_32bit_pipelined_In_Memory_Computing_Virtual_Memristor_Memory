@@ -43,4 +43,6 @@ https://doi.org/10.1016/j.aeue.2024.155505
 
 Binary code that can be inputed into the CPU memory for simulation processes can be produced using the following repo [ASSEMBLER_32_BIT_for_RISCV_Arechitecture] (https://github.com/konsmall/ASSEMBLER_32_BIT_for_RISCV_Arechitecture)
 
-An OUTDATED and more simplified 16 bit architecture has also been set up: [CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory] (https://github.com/konsmall/CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory). 
+The input/ouputs of the digital crossbar array were captured from the VCD and translated into PWL files to certify the correct operation of its main analog counterpart, designed and tested In **Virtuoso** using the Memristive Stanford Model. The tool that converted the logical waveforms into analog waveforms can be located in the following repository [VCD_to_PWL_Conversion_Tool] (https://github.com/konsmall/VCD_to_PWL_Conversion_Tool)
+
+An **OUTDATED** and more simplified 16 bit architecture has also been set up: [CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory] (https://github.com/konsmall/CPU_16bit_pipelined_In_Memory_Computing_Virtual_Memristor_Memory). 
